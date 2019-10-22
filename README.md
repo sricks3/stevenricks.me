@@ -1,10 +1,16 @@
+# stevenricks.me
+
+This is where I run the stevenricks.me website. I'm making it a public repository in case anyone would like to borrow any of the code. Otherwise, the content should be of no interest to anyone (in terms of borrowing, at least) since this is my personal website.
+
+Right now, I'm also using a Hugo template and other things created by other people. Attribution can be found below.
+
 # Hugo template for Netlify CMS with Netlify Identity
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
 
-Use our deploy button to get your own copy of the repository. 
+Use our deploy button to get your own copy of the repository.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
