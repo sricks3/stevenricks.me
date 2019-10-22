@@ -1,6 +1,10 @@
 # stevenricks.me
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6532383c-3faa-4181-ad49-41c0d8d76c0a/deploy-status)](https://app.netlify.com/sites/stevenricksme/deploys)
+
 This is where I run the stevenricks.me website. I'm making it a public repository in case anyone would like to borrow any of the code. Otherwise, the content should be of no interest to anyone (in terms of borrowing, at least) since this is my personal website.
+
+I'm building and "hosting" this using [Netlify CMS](https://www.netlifycms.org/ "Netlify CMS") ([GitHub](https://github.com/netlify/netlify-cms "netlify/netlify-cms")).
 
 Right now, I'm also using a Hugo template and other things created by other people. Attribution can be found below.
 
